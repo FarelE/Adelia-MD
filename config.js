@@ -22,7 +22,7 @@ global.APIKeys = {
 
 global.owner = ['6285339189356'] //Nomor lu
 global.premium = ['6285339189356'] //Nomor lu
-global.packname = 'GabutBot-MD' //Nama bot lu utk wm stiker
+global.packname = 'Marsel Hasagi' //Nama bot lu utk wm stiker
 global.author = 'marselDev' //Nama lu utk wm stiker
 global.sessionName = 'gabutbot' //Nama session
 global.prefa = ['','!','.','🐦','🐤','🗿'] //Prefix bot serah lo mau ubah atau ga
@@ -40,7 +40,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 9999
 }
 global.thumb = fs.readFileSync('./lib/arietube.jpg')
 global.vitube = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
